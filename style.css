@@ -35,7 +35,7 @@ img {
 .attribution {
     font-size: 11px;
     text-align: center;
-    position: fixed;
+    position: absolute;
     bottom: 10px;
     left: 50%;
     margin: 0 auto;
